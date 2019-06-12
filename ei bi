@@ -1,0 +1,20 @@
+funções:
+
+let = variavel
+function = o contexto so existe dentro dela
+(para criar um parametro)
+toda funçao(function) tem contexto e funçao
+nao crie uma variavel com var
+arrow function existe no contexto global
+
+
+
+
+
+
+
+
+
+
+
+
